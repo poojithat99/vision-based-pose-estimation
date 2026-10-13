@@ -147,7 +147,7 @@ The model is evaluated using:
 
 ## Results
 
-In the current reported experiment, the model achieved approximately 48% test accuracy for exact pose-class prediction. The reported mean 3D position error was approximately 6.6 metres.
+In the current reported experiment, the model achieved approximately 47.2% test accuracy for exact pose-class prediction. The reported mean 3D position error was approximately 6.6 metres.
 
 Results may vary depending on the dataset, training configuration, and random initialization.
 
